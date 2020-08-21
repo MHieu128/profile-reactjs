@@ -12,21 +12,15 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/MHieu128"
           target="_blank"
           rel="noopener noreferrer"
         >
           Nhấn vào đây để theo dõi github tui nè!
         </a>
-        <p/>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
+        <p>
           Sau này chỗ này sẽ là CV page nhé!
-        </a>
+        </p>
       </header>
     </div>
   );
